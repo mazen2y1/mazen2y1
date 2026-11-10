@@ -1,4 +1,4 @@
-### Hi there, I'm Mazen 👋
+### Hi there, I'm Mazen
 
 **Machine Learning & AI Engineer | Currently Learning Backend Development**
 
@@ -25,10 +25,3 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mazen2y1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen2y1&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
