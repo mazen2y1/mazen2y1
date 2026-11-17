@@ -1,6 +1,6 @@
-### Hi there, I'm Mazen
+###Mazen Mohamed
 
-**Machine Learning & AI Engineer | Currently Learning Backend Development**
+**Machine Learning & AI Engineer**
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-mohamed-70b56534b)
